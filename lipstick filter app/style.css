@@ -1,0 +1,9 @@
+.body_background{
+    background-image:url("backgroundimage.jpg");
+}
+.heading{
+    font-size: 20px;
+}
+canvas{
+    border: 5px double rgb(175, 78, 255);
+}
